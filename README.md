@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0142-linked-list-cycle-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
