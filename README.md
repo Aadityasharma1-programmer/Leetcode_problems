@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
