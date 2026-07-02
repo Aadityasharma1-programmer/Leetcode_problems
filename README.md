@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0011-container-with-most-water) |
 ## Linked List
 |  |
 | ------- |
@@ -28,9 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
