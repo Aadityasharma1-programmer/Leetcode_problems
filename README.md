@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
