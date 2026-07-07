@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
