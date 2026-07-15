@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0739-daily-temperatures](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0739-daily-temperatures](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
