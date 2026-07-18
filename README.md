@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0067-add-binary) |
 ## Sliding Window
