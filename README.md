@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0067-add-binary) |
+| [1922-count-good-numbers](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1922-count-good-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
