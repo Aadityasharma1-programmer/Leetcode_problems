@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0739-daily-temperatures](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
