@@ -13,7 +13,7 @@ public:
         int i=0,j=n-1;
         vector<int>ans(n);
         int k=n-1;
-        while(i<j){
+        while(i<=j){
             if(nums[i]*nums[i]>nums[j]*nums[j]){
                 ans[k]=nums[i]*nums[i];
                 i++;
@@ -23,10 +23,10 @@ public:
             }
             k--;
         }
-        if(i<j)
-        ans[k]=nums[i]*nums[i];
-        else
-        ans[k]=nums[j]*nums[j];
+        // if(i<j)
+        // ans[k]=nums[i]*nums[i];
+        // else
+        // ans[k]=nums[j]*nums[j];
         return ans;
     }
 };
