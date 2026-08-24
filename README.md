@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
