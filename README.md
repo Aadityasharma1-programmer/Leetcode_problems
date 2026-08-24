@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0048-rotate-image) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0148-sort-list) |
