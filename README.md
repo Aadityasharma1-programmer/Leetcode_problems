@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0881-boats-to-save-people) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0148-sort-list) |
 | [0881-boats-to-save-people](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Binary Search
 |  |
 | ------- |
