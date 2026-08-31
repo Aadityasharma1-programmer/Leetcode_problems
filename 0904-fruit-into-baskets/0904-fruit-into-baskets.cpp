@@ -17,7 +17,7 @@ public:
             if(freq.size()==2){
                 ans=max(ans,right-left+1);
             }
-                ans=max(ans,right-left+1);
+            ans=max(ans,right-left+1);
         }
         return ans;
     }
