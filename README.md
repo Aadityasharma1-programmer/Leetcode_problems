@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
