@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
@@ -240,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
