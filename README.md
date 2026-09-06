@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0067-add-binary) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
@@ -231,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
