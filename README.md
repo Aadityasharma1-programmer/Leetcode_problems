@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
