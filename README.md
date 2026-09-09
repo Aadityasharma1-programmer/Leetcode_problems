@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0076-minimum-window-substring) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0217-contains-duplicate) |
