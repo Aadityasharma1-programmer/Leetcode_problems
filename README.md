@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0220-contains-duplicate-iii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
