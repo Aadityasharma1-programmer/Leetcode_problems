@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -318,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
