@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
