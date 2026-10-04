@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Sorting
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 ## Recursion
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 ## Quicksort
 |  |
 | ------- |
