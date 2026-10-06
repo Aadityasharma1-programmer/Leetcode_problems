@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
