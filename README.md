@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Sorting
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Quicksort
 |  |
 | ------- |
