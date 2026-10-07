@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0567-permutation-in-string) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
