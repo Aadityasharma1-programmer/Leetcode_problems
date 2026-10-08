@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 ## Quicksort
 |  |
 | ------- |
