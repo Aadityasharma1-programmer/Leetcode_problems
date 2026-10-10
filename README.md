@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1539-kth-missing-positive-number](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
 | ------- |
