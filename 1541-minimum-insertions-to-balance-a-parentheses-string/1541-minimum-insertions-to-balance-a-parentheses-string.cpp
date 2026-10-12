@@ -1,27 +1,29 @@
 class Solution {
 public:
     int minInsertions(string s) {
-        int ans = 0;
-        int open = 0;
-
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == '(') {
+        int n=s.length();
+        int open=0;
+        int ans=0;
+        for(int i=0;i<n;i++){
+            if(s[i]=='('){
                 open++;
-            } else {
-                if (i + 1 < s.size() && s[i + 1] == ')') {
+            }else{
+                if(i+1<s.size()&&s[i+1]==')'){
                     i++;
-                } else {
+                }else{
                     ans++;
                 }
-
-                if (open > 0) {
+                if(open>0){
                     open--;
-                } else {
+                }
+                else{
                     ans++;
                 }
             }
         }
-
-        return ans + 2 * open;
+        if(open>0){
+            ans+=open*2;
+        }
+        return ans;
     }
 };
