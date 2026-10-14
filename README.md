@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1922-count-good-numbers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
