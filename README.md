@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0881-boats-to-save-people) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+| [0729-my-calendar-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0729-my-calendar-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0220-contains-duplicate-iii) |
+| [0729-my-calendar-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0729-my-calendar-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -415,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1851-minimum-interval-to-include-each-query) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
