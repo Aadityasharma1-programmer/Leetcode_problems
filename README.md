@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
@@ -423,4 +425,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0729-my-calendar-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
