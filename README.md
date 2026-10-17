@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
