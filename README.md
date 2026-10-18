@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1539-kth-missing-positive-number](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1922-count-good-numbers](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1922-count-good-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Merge Sort
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0100-same-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0100-same-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -337,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Backtracking
 |  |
@@ -407,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -444,4 +451,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
