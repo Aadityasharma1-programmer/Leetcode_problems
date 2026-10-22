@@ -14,8 +14,6 @@ public:
 
         if (s[0] == mn || s[n - 1] == mx)
             return 1;
-
-        // 3 only if the min exists solely at the end and the max solely at the start
         if (s[0] == mx && s[n - 1] == mn &&
             count(s.begin(), s.end(), mn) == 1 &&
             count(s.begin(), s.end(), mx) == 1)
