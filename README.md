@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0496-next-greater-element-i) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [1254-number-of-closed-islands](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 ## Dynamic Programming
 |  |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Aadityasharma1-programmer/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
